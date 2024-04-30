@@ -1,0 +1,12 @@
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\bin\Debug\Do an quan ly bai dang.exe.config
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\bin\Debug\Do an quan ly bai dang.exe
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\bin\Debug\Do an quan ly bai dang.pdb
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do an quan ly bai dang.csproj.AssemblyReference.cache
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do_an_quan_ly_bai_dang.Form1.resources
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do_an_quan_ly_bai_dang.Properties.Resources.resources
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do an quan ly bai dang.csproj.GenerateResource.cache
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do an quan ly bai dang.csproj.CoreCompileInputs.cache
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do an quan ly bai dang.exe
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do an quan ly bai dang.pdb
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Kiệt\Tài liệu học tập\Winform\ĐỒ ÁN QUẢN LÝ BÀI ĐĂNG\Do an quan ly bai dang\obj\Debug\Do an quan ly bai dang.csproj.CopyComplete
